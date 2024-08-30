@@ -1,0 +1,1 @@
+A project done under the IBM Data Visualisation and Dashboards with Excel and Cognos using IBM Cognos Analytics to visualise the sales and profit of different brands of car daily, monthly, quaterly or yearly and the different number of services rendered overtime.
